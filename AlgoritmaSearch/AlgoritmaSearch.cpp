@@ -18,6 +18,10 @@ void input()
     }
 
     // Accept array elements
+    cout << "\n----------------------\n";
+    cout << " Enter array element \n";
+    cout << "---------------------\n";
+    for
 }
 
 
